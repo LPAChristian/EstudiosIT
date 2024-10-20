@@ -1,0 +1,2 @@
+> [!NOTE]
+> Un **agente relay** es un dispositivo de red que escucha las peticiones DHCP que se producen en la red, y las encamina hacia un servidor DHCP que se encuentra en otra red para que las resuelva.
