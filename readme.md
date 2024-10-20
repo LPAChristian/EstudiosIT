@@ -41,7 +41,7 @@ Obsidian es un potente editor de notas que permite:
 
 ## 🤝 Contribuciones
 
-Aunque estas son notas personales, las sugerencias y correcciones son bienvenidas. Si encuentras algún error o tienes alguna sugerencia, no dudes en abrir un issue.
+Aunque estas son notas personales, las sugerencias, correcciones y adiciones siempre son bienvenidas.
 
 ## 📜 Licencia
 
