@@ -34,8 +34,8 @@ Obsidian es un potente editor de notas que permite:
 
 ```
 ├── README.md
-├── DNS/
-├── Redes/
+├── Notas/
+├── Servicios de Red e Internet/
 └── [otras-categorías]/
 ```
 
