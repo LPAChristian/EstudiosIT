@@ -17,7 +17,7 @@
 		-  Son códigos de dos letras que representan países o regiones: **.es**,**.fr**,**.co**,**.eu**.
 	- **Dominios de nivel superior patrocinados (sTLD):**
 		- Son TLD que están patrocinados por organizaciones: **.aero**,**.travel**,**.fm**.
-	- **Dominios lingüísticos de nivel superior (ITLD):
+	- **Dominios lingüísticos de nivel superior (ITLD):**
 		- Son TLD que tienen como objetivo el uso específico de idiomas: **.cat**,**.gal**.
 3. **Dominios de segundo nivel:** Son los dominios que se registran bajo los TLD. Las entidades registran estos dominios, algunos ejemplos:
 	- wikipedia.org
@@ -56,4 +56,4 @@ Las zonas se encargan de resolver los nombres de dominio dentro de esa zona, tra
 
 Las zonas pueden ser:
 1. **Primarias:** Contienen los archivos de configuración de la zona.
-2. Secundarias: Obtienen copias de las zonas primarias, son de solo lectura. Cuando la zona primaria no es accesible, se puede utilizar esta zona para la resolución de nombres.
+2. **Secundarias:** Obtienen copias de las zonas primarias, son de solo lectura. Cuando la zona primaria no es accesible, se puede utilizar esta zona para la resolución de nombres.
