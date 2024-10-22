@@ -8,6 +8,6 @@
 - Puerta de enlace
 - Servidores DNS
 - Nombre de dominio DNS
-- Dirección boradcast
+- Dirección broadcast
 - Servidores SMTP
 - Nombre del servidor
