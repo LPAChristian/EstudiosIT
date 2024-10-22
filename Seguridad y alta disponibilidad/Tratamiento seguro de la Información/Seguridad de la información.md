@@ -1,3 +1,5 @@
+# 🔐 La Seguridad de la Información
+
 Un sistema de información es seguro siempre que cumpla con los elementos básicos de la seguridad informática:
 
 1. **Fiabilidad:** Probabilidad de buen funcionamiento de algo.
