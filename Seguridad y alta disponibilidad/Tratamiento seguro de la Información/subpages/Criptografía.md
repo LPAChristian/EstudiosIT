@@ -1,5 +1,5 @@
 
-> [!Definición de RAE]
+> [!NOTE] Definición de RAE
 > Arte de escribir con clave secreta o de un modo enigmático.
 
 La criptografía es un **proceso en el que un mensaje se cifra, por lo tanto se protege, utilizando algoritmos y claves secretas o públicas que solamente deben conocer el emisor y el receptor del mensaje.**

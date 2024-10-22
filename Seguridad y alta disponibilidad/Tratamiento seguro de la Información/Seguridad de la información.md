@@ -7,7 +7,7 @@ Un sistema de información es seguro siempre que cumpla con los elementos básic
 3. **Integridad:** Que no carece de ninguna de sus partes.
 4. **Disponibilidad:** Que se puede disponer libremente de ella o que está lista para usarse o utilizarse.
 
-> [!EN RESUMEN]
+> [!NOTE] En resumen
 > Se puede decir que un sistema es **fiable** si funciona correctamente, **confidencial** si la información es accesible solamente para las personas autorizadas, **íntegro** si el contenido de la información no se altera o se altera solamente por personal autorizado y **disponible** si el sistema funciona y los usuarios tienen acceso a todos los componentes del sistema.
 
 Podemos distinguir entre dos tipos de seguridad:
@@ -36,7 +36,7 @@ Un sistema informático está compuesto por:
 4. Personal
 
 
-> [!Nota] 
+> [!NOTE] Nota 
 > Cada uno de estos activos presenta diferentes vulnerabilidades, las más claras son las vulnerabilidades asociadas al personal que maneja el sistema informático.
 
 El proceso general para analizar las vulnerabilidades de un sistema se puede explicar en varios pasos:
